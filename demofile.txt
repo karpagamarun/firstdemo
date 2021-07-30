@@ -1,5 +1,8 @@
 welcome to github
 java
+j2ee
+python
 sql
 oracle
 PL/Sql
+
